@@ -31,9 +31,9 @@
     <footer class="footer">
       <div class="container footer-content">
         <p class="copyright">© {{ currentYear }} 老王图床 · 简单好用的图床服务 </p>
-        <p class="copyright">❤️ Made with <a href="https://laowang.co" target="_blank" rel="noopener"
-            class="footer-link">Anuuu.com</a> ·
-          <a href="https://anuuu.com/buling-imgbed.html" rel="noopener" class="footer-link" target="_blank">使用教程</a>
+        <p class="copyright">❤️ Made with <a href="https://tuchuang.6512624.xyz" target="_blank" rel="noopener"
+            class="footer-link">tuchuang.6512624.xyz</a> ·
+          <a href="https://tuchuang.6512624.xyz" rel="noopener" class="footer-link" target="_blank">使用教程</a>
         </p>
       </div>
     </footer>
