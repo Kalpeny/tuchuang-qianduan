@@ -1,8 +1,8 @@
-# 🚀 布灵图床 | Buling ImgBed
+# 🚀 老王图床 | Buling ImgBed
 
 <div align="center">
-    <h1>🌈 布灵图床前端</h1>
-    <p>布灵图床前端，基于 Vue3 + Nuxt3</p>
+    <h1>🌈 老王图床前端</h1>
+    <p>老王图床前端，基于 Vue3 + Nuxt3</p>
     <p>
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
         <img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="version">
@@ -154,13 +154,5 @@
 - [开源社区](https://github.com/) - 感谢所有开源贡献者
 
 感谢所有为这个项目做出贡献的开发者们！
-
-## 📞 联系作者
-
-- 博客：[Anuuu.com](https://annuuu.com)
-- Telegram：[@wzsxh]
-
-
----
 
 如果这个项目对你有帮助，欢迎 star ⭐️ 支持一下！
